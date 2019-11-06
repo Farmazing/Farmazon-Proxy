@@ -1,6 +1,6 @@
 # Project Name
 
-![](Farmazon Presentation.gif)
+![](FarmazonPresentation.gif)
 
 ## Related Projects
 
